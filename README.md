@@ -1,3 +1,11 @@
+New Canonical Source for This Project
+=====================================
+
+I have taken employment such that it is difficult for me to be the owner of this project.
+I have transferred control to the [excellent engineer wizzat](https://github.com/wizzat/arsimto).
+Please contribute any PRs, issues, etc to that project rather than this one.
+Thank you, and it's been good serving you these past years.
+
 arsimto: A Radically-Simple Inventory Management Tool
 =====================================================
 
